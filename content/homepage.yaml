@@ -1,0 +1,18 @@
+
+  - id: "0194-4aa4-759b"
+    web:
+      metaDescription: ""
+      metaTitle: "Homepage"
+      metaLinkText: "Homepage"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data: {}
